@@ -14,4 +14,10 @@ Decks without Redux
   }, [])
 
 2. Redux-flow
+1) написать action creator (setDecksAC)
+2) написать case в reducer для этого action
+3) задиспатчить action в компоненте DecksList
+4) получить decks из redux state в компоненте DecksList
+5) отрендерить decks, используя компонент DecksItem
+
 3. 
