@@ -1,6 +1,3 @@
-Decks without Redux
-
-
 # 1. Get запрос
  последовательность:
  1) файл decksApi - написала get-запрос
